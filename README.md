@@ -1,4 +1,4 @@
-# @beohoang98/cra-template-typescript (Forked from [CRA Template Typescript](https://github.com/facebook/create-react-app/packages/cra-template-typescript))
+# @beohoang98/cra-template-typescript (Forked from [CRA Template Typescript](https://github.com/facebook/create-react-app/tree/master/packages/cra-template-typescript))
 
 This is the official TypeScript template for [Create React App](https://github.com/facebook/create-react-app).
 
